@@ -16,21 +16,7 @@
 
 ## 🚀 **Java Full Stack Developer**
 
-### ☕ Java • 🌱 Spring Boot • 🅰️ Angular • 🗄️ MySQL
-
-</div>
-
-<p>
-  <a href="https://github.com/harshitpanchal9755">
-    <img src="https://img.shields.io/github/followers/harshitpanchal9755?style=for-the-badge&label=Followers" />
-  </a>
-  <a href="https://github.com/harshitpanchal9755">
-    <img src="https://img.shields.io/github/stars/harshitpanchal9755?style=for-the-badge&label=Stars" />
-  </a>
-  <a href="mailto:harshitpanchal.ind@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+### 🚀 Java Full Stack Developer | Spring Boot | Angular | DevOps Enthusiast
 
 </div>
 
