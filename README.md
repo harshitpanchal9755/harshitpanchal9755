@@ -100,32 +100,6 @@ Java Spring Boot Angular MySQL JPA Hibernate JWT
 - Bean Lifecycle
 - Autowiring
 
-Development Flow:
-
-GitHub
-   ↓
-Jenkins
-   ↓
-Maven Build
-   ↓
-Angular Build
-   ↓
-Application
-
-🌱 Currently Learning
-
-☕ Java
-
-🌱 Spring Boot
-
-🅰️ Angular
-
-🗄️ MySQL
-
-⚙️ Jenkins
-
-🐳 Docker
-
 📊 GitHub Stats
 
 <div align="center">
