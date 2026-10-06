@@ -14,9 +14,7 @@
 
 # 👋 Hi, I'm **Harshit Panchal**
 
-## 🚀 **Java Full Stack Developer**
-
-### 🚀 Java Full Stack Developer | Spring Boot | Angular | DevOps Enthusiast
+## 🚀 Java Full Stack Developer | Spring Boot | Angular | DevOps Enthusiast
 
 </div>
 
