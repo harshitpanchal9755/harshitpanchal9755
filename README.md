@@ -81,12 +81,24 @@ A full-stack academic management application for managing students, users, roles
 Tech Stack:
 Java Spring Boot Angular MySQL JPA Hibernate JWT
 
-🚀 Project-10
+## 📂 Projects
 
-A Java Full Stack application with authentication, REST APIs, Angular frontend and MySQL database integration.
+### ORS Project (Online Result System)
+- Java
+- JSP & Servlet
+- JDBC
+- MySQL
+- Maven
+- Docker
+- Jenkins
 
-Tech Stack:
-Java Spring Boot Angular MySQL JWT Jenkins Docker
+### Spring Learning
+- Spring Core
+- Spring MVC
+- Spring Boot
+- Dependency Injection
+- Bean Lifecycle
+- Autowiring
 
 Development Flow:
 
