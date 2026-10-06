@@ -132,19 +132,11 @@ Application
 
 </div>
 
-🏆 GitHub Trophy
+🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=harshitpanchal9755&theme=tokyonight&no-frame=true&margin-w=10" />
-
-</div>
-
-📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitpanchal9755&theme=tokyo-night&hide_border=true&area=true" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/harshitpanchal9755/harshitpanchal9755/output/github-contribution-grid-snake.svg" />
+</p>
 
 </div>
 
