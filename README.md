@@ -8,20 +8,17 @@
 
 <br><br>
 
-<a href="https://github.com/harshitpanchal9755">
-<img src="https://img.shields.io/badge/GitHub-harshitpanchal9755-181717?style=for-the-badge&logo=github">
-</a>
+</div>
 
-<a href="mailto:harshitpanchal.ind@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+<div align="center">
+
+# 👋 Hi, I'm **Harshit Panchal**
+
+## 🚀 **Java Full Stack Developer**
+
+### ☕ Java • 🌱 Spring Boot • 🅰️ Angular • 🗄️ MySQL
 
 </div>
-👋 Hi, I'm Harshit Panchal
-
-🚀 Java Full Stack Developer
-
-Java • Spring Boot • Angular • MySQL • Jenkins • Docker
 
 <p>
   <a href="https://github.com/harshitpanchal9755">
