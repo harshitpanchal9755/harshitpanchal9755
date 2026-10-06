@@ -68,14 +68,23 @@ My focus is on writing clean, maintainable code and building reliable applicatio
 
 ## 🐍 Contribution Activity
 
+---
+
+## 🔥 Contribution Activity
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/harshitpanchal9755/harshitpanchal9755/output/github-contribution-grid-snake.svg" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitpanchal9755&theme=radical&hide_border=true" />
 
 </div>
 
----
+<br>
 
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitpanchal9755&theme=react-dark&hide_border=true&area=true" />
+
+</div>
 ## 🌐 Connect With Me
 
 <div align="center">
