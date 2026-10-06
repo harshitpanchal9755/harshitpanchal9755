@@ -45,7 +45,7 @@ I am a Java Full Stack Developer interested in building clean and practical web 
 ☕ Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,angular.js,ts,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,angular,ts,html,css" />
 </p>
 
 ⚙️ Backend
