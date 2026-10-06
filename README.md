@@ -1,11 +1,22 @@
 <div align="center">
 
-<img src="./dark.svg"
-     width="100%"
-     alt="Harshit Panchal - Java Full Stack Developer">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:00c6ff&height=180&section=header&text=Harshit%20Panchal&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C6FF&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Angular;MySQL+%7C+Jenkins+%7C+Docker;Build+%E2%80%A2+Learn+%E2%80%A2+Deploy+%E2%80%A2+Repeat" />
+
+<br><br>
+
+<a href="https://github.com/harshitpanchal9755">
+<img src="https://img.shields.io/badge/GitHub-harshitpanchal9755-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="mailto:harshitpanchal.ind@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
 </div>
-
 👋 Hi, I'm Harshit Panchal
 
 🚀 Java Full Stack Developer
