@@ -45,7 +45,7 @@ I am a Java Full Stack Developer interested in building clean and practical web 
 ☕ Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,angular.js,ts,html,css" />
 </p>
 
 ⚙️ Backend
@@ -99,20 +99,6 @@ Maven Build
 Angular Build
    ↓
 Application
-
-🍽️ IoT Restaurant Menu
-
-A web application for managing and displaying restaurant menu information.
-
-Tech Stack:
-Java Spring Boot Angular MySQL
-
-🎫 Eventify
-
-An event management application for managing events and related information.
-
-Tech Stack:
-Java Spring Boot Angular MySQL
 
 🌱 Currently Learning
 
