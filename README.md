@@ -1,3 +1,11 @@
+<div align="center">
+
+<img src="./dark.svg"
+     width="100%"
+     alt="Harshit Panchal - Java Full Stack Developer">
+
+</div>
+
 👋 Hi, I'm Harshit Panchal
 
 🚀 Java Full Stack Developer
@@ -137,8 +145,6 @@ Application
 <p align="center">
   <img src="https://raw.githubusercontent.com/harshitpanchal9755/harshitpanchal9755/output/github-contribution-grid-snake.svg" />
 </p>
-
-</div>
 
 🌐 Connect With Me
 
